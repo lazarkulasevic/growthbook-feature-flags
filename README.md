@@ -30,3 +30,6 @@ const featureEnabled = useFeatureIsOn("feature_key")
 ## Result: PROD & DEV
 
 ![image](https://github.com/lazarkulasevic/vite-feature-flags/assets/68285821/04934d6c-25b1-4517-915f-c283174cfae3)
+
+### Growthbook Features
+![features](https://github.com/lazarkulasevic/growthbook-feature-flags/assets/68285821/6b1cedbf-dd10-45f1-845f-38e0c58f37ac)
